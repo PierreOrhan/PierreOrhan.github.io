@@ -34,5 +34,5 @@ After 2 years of studying Neuroscience and Machine Learning, I know that there i
 
 While I have spent most of my time studying and probably will, I did slow down in second and beginning of third year at Ecole Polytechnique. There I ran the studient Union with my 15 accomplices. We where playing the role of proud Vikings against the not so playing challenges coming with animating the life of 2 promotions of amazingly talented Polytechniciens. Few hours of sleep were gathered in this adventure, still lots of good memories remained!
 
-![Student Union](/data/photo/drakkesjpg) 
+![Student Union](/data/photo/drakkes.jpg) 
 
