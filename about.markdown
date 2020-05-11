@@ -4,7 +4,7 @@ title: About this site
 permalink: /about/
 ---
 
-This website presents {{ my research | capitalize}}, blog posts and links to my code.
+This website presents {{ "my research" | capitalize}}, blog posts and links to my code.
 
 I am using the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
