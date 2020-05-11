@@ -22,8 +22,8 @@ title: Pierre Orhan
 email: pierre dot orhan at mail dot mcgill dot com
 description: >- # this means to ignore newlines until "baseurl:"
   In this website (under construction) you can find
-  :compass: A logbook of fields, books and courses I am exploring through my master thesis.
-  ✔️ reviews of papers I am re-implementing, as well as the code used for it.
+  🧭 A logbook of fields, books and courses I am exploring through my master thesis.
+  ✔️ Reviews of papers I am re-implementing, as well as the code used for it.
   🔥 CV, twitter... anything to get in touch and discuss about science!
 
 baseurl: "" # the subpath of your site, e.g. /blog
