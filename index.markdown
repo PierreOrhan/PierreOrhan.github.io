@@ -20,19 +20,30 @@ Me, in brief:
 
 # Interests
 
-I am a junior (baby or child) scientist dreaming of unknown grounds yet struggling with the oldest maps. Bad at writing, networking but honest.
+I am an apprentice scientist dreaming of unknown grounds yet struggling with the oldest maps. Bad at writing, networking but honest and dedicated.
 
-I wish to study the brain, but I feel more comfortable a bit far from it, I work at an abstract level (no experiment) but believes it is key to get close enough to it. Despite Marr's recommandation, I believe that some crucial building blocks lies in the nature of our different communication system (chemicals at different ranges), which to replicate will need more than abstraction. Will the next machine learning framework uses the tricks of the brain? 
+I wish to study the brain, but I feel more comfortable a bit far from it, I work at an abstract level (I don't conduct experiment) but try to work in cooperation with experimentalists. Despite Marr's recommandation, I believe that some crucial building blocks lies in the nature of the brain's communication system (hormonal or synaptic). To reach the same level of performance, we will need more than abstraction. Will the next machine learning framework use tricks of the brain? 
 
 - I try to learn Mathematics, Neuroscience, and computer science (but only for simulation). In Mathematics I am currently learning the fundamentals of Differential Geometry and Topology. More anatycally, I have been studying the process of pattern forming. I feel best when doing Algebra. I have a beginer level which I wish to improve, but the balance is hard to stike due to the time spent on simulation and Neuroscience reading!
-- I am confortable with Machine Learning recent developments. I use for largest model the language Python (pytorch/Tensorflow), but for exploration Julia :💗, it is really friendly and efficient!
-- Concerning Neuroscience, I still have so much to learn! I focused on studying things at a system level - Neuronal Dynamics was my first reading. My favorite topics are: plasticity, consequences for Informations (everything related to Shannon's theory: effect of correlations [...]), pattern emergence, learning rule. I try to remain open to all applied fields in Neuroscience, because they bring in the possibility that matters. 
+- I am confortable with Machine Learning recent developments. I use for largest model the language Python (Pytorch/Tensorflow), but for exploration Julia :💗, it is really friendly and efficient!
+- Concerning Neuroscience, I still have so much to learn! I focused on studying things at a system level - Neuronal Dynamics was my first reading, the second one The Neocortex. My favorite topics are: plasticity, consequences of and for Information Theory (everything related to Shannon's theory: effect of correlations [...]), pattern emergence, learning rules. I try to remain open to all applied fields in Neuroscience, because they bring to the table of the scientific debate the possibilities that matters. 
 
-After 2 years of studying Neuroscience and Machine Learning, I know that there is still a lot to theorize. Thus I am looking for a PhD at the intersection of Mathematics and Neuroscience. If you have a crazy plan for me, I am in, especially if the abstraction we could develop will elegantly be transposed into working simulations. 
+After 2 years of studying Neuroscience and Machine Learning, I know that there is still a lot to theorize. Thus I am looking for a PhD at the intersection of Mathematics and Neuroscience. If you have a crazy plan for me, I am in, especially if the abstraction we could develop will elegantly be translated into working simulations. 
 
 # Other activities
 
 While I have spent most of my time studying and probably will, I did slow down in second and beginning of third year at Ecole Polytechnique. There I ran the studient Union with my 15 accomplices. We where playing the role of proud Vikings against the not so playing challenges coming with animating the life of 2 promotions of amazingly talented Polytechniciens. Few hours of sleep were gathered in this adventure, still lots of good memories remained!
 
 ![Student Union](/data/photo/drakkes.jpg) 
+
+# Scientific exchanges
+
+At polytechnique I have launched regular scientifics meeting, called "Smarter every kawa". The goal was for students to give flash talk of 5 to 10 mins to their peer, either to introduce a field of research or a cool paper. With 3-4 speakers at each session and a little bit of baking those exchanges where ideals to spark our curiosity. I support the generalist formation we have in Enginner School France, it really gives us the freedom of planning our life. One problem is that is makes the career choices more difficult, I hope that such scientific exchanges helped in this matter. I am also really gratefull to the aXone group that invited amazing neuroscientist as Stanislas Dehaene or Yves Freignac introducing me to this beautiful field!
+
+![Partenariat SEK-aXone](/data/photo/AxoneIntro.jpg)
+
+# Teaching
+
+I have been TA for the comp 251 (Fall 2019) and comp 424 (Winter 2020) courses.
+
 
