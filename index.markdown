@@ -20,7 +20,7 @@ Me, in brief:
 
 # Interests
 
-I am a junior scientist dreaming of unknown grounds yet struggling with the oldest maps. Bad at writing, networking but honest.
+I am a junior (baby or child) scientist dreaming of unknown grounds yet struggling with the oldest maps. Bad at writing, networking but honest.
 
 I wish to study the brain, but I feel more comfortable a bit far from it, I work at an abstract level (no experiment) but believes it is key to get close enough to it. Despite Marr's recommandation, I believe that some crucial building blocks lies in the nature of our different communication system (chemicals at different ranges), which to replicate will need more than abstraction. Will the next machine learning framework uses the tricks of the brain? 
 
