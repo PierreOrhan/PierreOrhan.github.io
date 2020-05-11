@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![Image of Pierre](https://twitter.com/PierreOrhan/photo)## Welcome to my personal website
+![Image of Pierre](/data/photo/profil.jpeg) ## Welcome to my personal website
 
 In this website (under construction) you can find:
 - 🧭 A logbook of fields, books and courses I am exploring through my master thesis.
