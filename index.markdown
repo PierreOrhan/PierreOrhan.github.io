@@ -16,7 +16,7 @@ In this website (under construction) you can find:
 
 Me, in brief:
 - ⚓ Master student with Adrien Peyrache at the Montreal Neurological Institute [lab page](http://www.peyrachelab.com/), registered in CS department.
-- 🗺️ Engineer from [Ecole Polytechnique](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program). Currently in MSc at [McGill University](https://www.cs.mcgill.ca/). Early years were spent studying and windsurfing along the coast of the windy and fractal [Bretagne]().
+- 🗺️ Engineer from [Ecole Polytechnique](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program). Currently in MSc at [McGill University](https://www.cs.mcgill.ca/). Early years were spent studying and windsurfing along the coast of the windy and fractal [Bretagne](https://www.youtube.com/watch?v=8WCLvvQGVf4&list=PLgNiukTEXKaK2-GU9_NypdJMrPLfoKX4V).
 
 # Interests
 
@@ -30,4 +30,9 @@ I wish to study the brain, but I feel more comfortable a bit far from it, I work
 
 After 2 years of studying Neuroscience and Machine Learning, I know that there is still a lot to theorize. Thus I am looking for a PhD at the intersection of Mathematics and Neuroscience. If you have a crazy plan for me, I am in, especially if the abstraction we could develop will elegantly be transposed into working simulations. 
 
+# Other activities
+
+While I have spent most of my time studying and probably will, I did slow down in second and beginning of third year at Ecole Polytechnique. There I ran the studient Union with my 15 accomplices. We where playing the role of proud Vikings against the not so playing challenges coming with animating the life of 2 promotions of amazingly talented Polytechniciens. Few hours of sleep were gathered in this adventure, still lots of good memories remained!
+
+![Student Union](/data/photo/drakkesjpg) 
 
