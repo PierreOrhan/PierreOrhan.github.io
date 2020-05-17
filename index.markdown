@@ -21,7 +21,7 @@ What I enjoy studying:
 - Intersection between Mathematics and Neuroscience: how can we use Differential geometry (among many other tools) to understand neural networks?
 
 How I study it:
-- From experimental observations, I try to first build a link between the real neural networks and simplified simulated network (either spiking or not). From these, I get an insight of what operation are being implemented by this network. Abstract once step further and we can ask: how can we generalize this operation? Is it as a member of a class of similar actions, but whose implementation serve slightly different goal and are made with slightly different constraints? From this, we get back to the real networks, describing how similar circuits could be used in different area, but through small changes in either their structure or their parameters values. Finally I love to ask how optimal this strategy are, and what tradeoff they solve.
+- From experimental observations, I try to first build a link between the real neural networks and simplified simulated network (either spiking or not). From these, I get an insight of what operations are being implemented by this network. Abstract one step further and we can ask: how can we generalize such operation? Is it as a member of a particular class but whose implementation serve slightly different goal and are made with slightly different constraints? From this, we get back to the real networks, describing how similar circuits could be used in different areas, through small changes in either their structure or their parameters values. Finally I love to ask how optimal these strategies are and what tradeoff they solve.
 
 # Detailed Interests
 
