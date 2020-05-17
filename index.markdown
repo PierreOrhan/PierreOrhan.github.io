@@ -4,8 +4,7 @@
 
 layout: home
 ---
-
-![Image of Pierre](/data/photo/profil.jpg) 
+<img src="http://images.weserv.nl/?url=pierreorhan.github.io/data/photo/profil.jpg&w=200&h=200&output=jpg&q=65" />
 
 ## Welcome to my personal website
 
