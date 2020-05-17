@@ -17,17 +17,22 @@ Me, in brief:
 - ⚓ Master student with Adrien Peyrache at the Montreal Neurological Institute [lab page](http://www.peyrachelab.com/), registered in CS department.
 - 🗺️ Engineer from [Ecole Polytechnique](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program). Currently in MSc at [McGill University](https://www.cs.mcgill.ca/). Early years were spent studying and windsurfing along the coast of the windy and fractal [Bretagne](https://www.youtube.com/watch?v=8WCLvvQGVf4&list=PLgNiukTEXKaK2-GU9_NypdJMrPLfoKX4V).
 
-# Interests
+What I enjoy studying:
+- Intersection between Mathematics and Neuroscience: how can we use Differential geometry to understand neural networks?
+How I study it:
+- From experimental observations, I try to first build a link between the real neural networks and simplified simulated network (either spiking or not). From these, I get an insight of what operation are being implemented by this network. Abstract once step further and we can ask: how can we generalize this operation? Is it as a member of a class of similar actions, but whose implementation serve slightly different goal and are made with slightly different constraints? From this, we get back to the real networks, describing how similar circuits could be used in different area, but through small changes in either their structure or their parameters values. Finally I love to ask how optimal this strategy are, and what tradeoff they solve.
 
-I am an apprentice scientist dreaming of unknown grounds yet struggling with the oldest maps. Bad at writing, networking but honest and dedicated.
+# Detailed Interests
 
-I wish to study the brain, but I feel more comfortable a bit far from it, I work at an abstract level (I don't conduct experiment) but try to work in cooperation with experimentalists. Despite Marr's recommandation, I believe that some crucial building blocks lies in the nature of the brain's communication system (hormonal or synaptic). To reach the same level of performance, we will need more than abstraction. Will the next machine learning framework use tricks of the brain? 
+I am an apprentice scientist dreaming of unknown grounds yet struggling with the oldest maps (hippocampal ones). Bad at writing, networking but honest and dedicated.
 
-- I try to learn Mathematics, Neuroscience, and computer science (but only for simulation). In Mathematics I am currently learning the fundamentals of Differential Geometry and Topology. More anatycally, I have been studying the process of pattern forming. I feel best when doing Algebra. I have a beginer level which I wish to improve, but the balance is hard to stike due to the time spent on simulation and Neuroscience reading!
+I wish to study the brain, but I feel more comfortable a bit far from it: I work at an abstract level (I don't conduct experiment). I wish to work in cooperation with experimentalists, as they clear a path we hope to make beautiful through theory. Despite Marr's recommandation, I believe that some crucial building blocks lies in the nature of the brain's communication system (hormonal or synaptical). To reach the same level of performances in simulated network,I believe that we will need more than abstraction. Will the next machine learning framework use tricks of the brain? 
+
+- I try to learn Mathematics, Neuroscience, and computer science (but only for simulation). In Mathematics I am currently learning the fundamentals of Differential Geometry and Topology. More anatycally, I have been studying the process of pattern forming. I feel best when doing Algebra. I have a beginer level which I wish to improve in my PhD, but the balance is hard to stike due to the time spent on simulation and Neuroscience reading!
 - I am confortable with Machine Learning recent developments. I use for largest model the language Python (Pytorch/Tensorflow), but for exploration Julia :💗, it is really friendly and efficient!
 - Concerning Neuroscience, I still have so much to learn! I focused on studying things at a system level - Neuronal Dynamics was my first reading, the second one The Neocortex. My favorite topics are: plasticity, consequences of and for Information Theory (everything related to Shannon's theory: effect of correlations [...]), pattern emergence, learning rules. I try to remain open to all applied fields in Neuroscience, because they bring to the table of the scientific debate the possibilities that matters. 
 
-After 2 years of studying Neuroscience and Machine Learning, I know that there is still a lot to theorize. Thus I am looking for a PhD at the intersection of Mathematics and Neuroscience. If you have a crazy plan for me, I am in, especially if the abstraction we could develop will elegantly be translated into working simulations. 
+After 2 years of studying Neuroscience and Machine Learning, I know that there is still a lot to theorize. Thus I am looking for a PhD at the intersection of Mathematics and Neuroscience. If you have a crazy plan for me, I am in, especially if the abstraction we could develop will elegantly be translated into working simulations of real networks. 
 
 # Other activities
 
