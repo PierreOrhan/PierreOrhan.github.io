@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Learning Pierre
-email: pierre dot orhan at mail dot mcgill dot com
+email: pierre dot orhan at mail dot mcgill dot ca
 description: >- # this means to ignore newlines until "baseurl:"
   In this website (under construction) you can find
   🧭 A logbook of fields, books and courses I am exploring through my master thesis.

@@ -1,0 +1,6 @@
+- name: Mathematics
+  link: /topics/mathematics/index.html
+- name: Neuroscience
+  link: /topics/neuroscience/index.html
+- name: Machine Learning
+  link: /topics/ml/index.html

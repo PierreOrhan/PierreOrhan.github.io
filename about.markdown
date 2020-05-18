@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: logBookLayout
 title: About this site
 permalink: /about/
 ---
+# {{ page.title}}
 
 This website presents my research, blog posts and links to my code.
 

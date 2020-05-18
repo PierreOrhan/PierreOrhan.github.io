@@ -2,9 +2,10 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: logBookLayout
 ---
-<img src="http://images.weserv.nl/?url=pierreorhan.github.io/data/photo/profil.jpg&w=200&h=200&output=jpg&q=65" />
+
+<img src="http://images.weserv.nl/?url=pierreorhan.github.io/data/photo/profil.jpg&w=200&h=200&output=jpg&q=65" />	
 
 ## Welcome to my personal website
 
@@ -21,7 +22,8 @@ What I enjoy studying:
 - Intersection between Mathematics and Neuroscience: how can we use Differential geometry (among many other tools) to understand neural networks?
 
 How I study it:
-- From experimental observations, I try to first build a link between the real neural networks and simplified simulated network (either spiking or not). From these, I get an insight of what operations are being implemented by this network. Abstract one step further and we can ask: how can we generalize such operation? Is it as a member of a particular class but whose implementation serve slightly different goal and are made with slightly different constraints? From this, we get back to the real networks, describing how similar circuits could be used in different areas, through small changes in either their structure or their parameters values. Finally I love to ask how optimal these strategies are and what tradeoff they solve.
+- First I learn (and you can follow this adventure through this website).
+- Then from experimental observations, I try to first build a link between the real neural networks and simplified simulated network (either spiking or not). From these, I get an insight of what operations are being implemented by this network. Abstract one step further and we can ask: how can we generalize such operation? Is it as a member of a particular class but whose implementation serve slightly different goal and are made with slightly different constraints? From this, we get back to the real networks, describing how similar circuits could be used in different areas, through small changes in either their structure or their parameters values. Finally I love to ask how optimal these strategies are and what tradeoff they solve.
 
 # Detailed Interests
 
@@ -34,6 +36,8 @@ I wish to study the brain, but I feel more comfortable a bit far from it: I work
 - Concerning Neuroscience, I still have so much to learn! I focused on studying things at a system level - Neuronal Dynamics was my first reading, the second one The Neocortex. My favorite topics are: plasticity, consequences of and for Information Theory (everything related to Shannon's theory: effect of correlations [...]), pattern emergence, learning rules. I try to remain open to all applied fields in Neuroscience, because they bring to the table of the scientific debate the possibilities that matters. 
 
 After 2 years of studying Neuroscience and Machine Learning, I know that there is still a lot to theorize. Thus I am looking for a PhD at the intersection of Mathematics and Neuroscience. If you have a crazy plan for me, I am in, especially if the abstraction we could develop will elegantly be translated into working simulations of real networks. 
+
+Long term goal? Better understand how we learn in order to improve our education system... Long way to go!
 
 # Other activities
 

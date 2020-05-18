@@ -1,0 +1,8 @@
+<nav>
+  {% for item in site.data.LogBookTopicNav %}
+    <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+      {{ item.name }}
+    </a>
+    <br>
+  {% endfor %}
+</nav>
