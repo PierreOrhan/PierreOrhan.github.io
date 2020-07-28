@@ -3,17 +3,17 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>About this site | Learning Pierre</title>
+<title>Replication | Learning Pierre</title>
 <meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="About this site" />
+<meta property="og:title" content="Replication" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="In this website (under construction) you can find 🧭 A logbook of fields, books and courses I am exploring through my master thesis. ✔️ Reviews of papers I am re-implementing, as well as the code used for it. 🔥 CV, twitter… anything to get in touch and discuss about science!" />
 <meta property="og:description" content="In this website (under construction) you can find 🧭 A logbook of fields, books and courses I am exploring through my master thesis. ✔️ Reviews of papers I am re-implementing, as well as the code used for it. 🔥 CV, twitter… anything to get in touch and discuss about science!" />
-<link rel="canonical" href="http://localhost:4000/about/" />
-<meta property="og:url" content="http://localhost:4000/about/" />
+<link rel="canonical" href="http://localhost:4000/Replications.html" />
+<meta property="og:url" content="http://localhost:4000/Replications.html" />
 <meta property="og:site_name" content="Learning Pierre" />
 <script type="application/ld+json">
-{"@type":"WebSite","url":"http://localhost:4000/about/","headline":"About this site","name":"Learning Pierre","description":"In this website (under construction) you can find 🧭 A logbook of fields, books and courses I am exploring through my master thesis. ✔️ Reviews of papers I am re-implementing, as well as the code used for it. 🔥 CV, twitter… anything to get in touch and discuss about science!","@context":"https://schema.org"}</script>
+{"@type":"WebPage","url":"http://localhost:4000/Replications.html","headline":"Replication","description":"In this website (under construction) you can find 🧭 A logbook of fields, books and courses I am exploring through my master thesis. ✔️ Reviews of papers I am re-implementing, as well as the code used for it. 🔥 CV, twitter… anything to get in touch and discuss about science!","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Learning Pierre" /></head>
 <body><header class="site-header" role="banner">
@@ -43,31 +43,41 @@
       LogBook
     </a>
   
-    <a href="/Replications.html" >
+    <a href="/Replications.html" style="color: red;">
       Replications
     </a>
   
-    <a href="/about/" style="color: red;">
+    <a href="/about/" >
       About
     </a>
   
 </nav>
 
 
-<h1 id="about-this-site">About this site</h1>
+<h1 id="replication">Replication</h1>
 
-<p>This website presents my research, blog posts and links to my code.</p>
+<p>🔥 Replication of various papers, to which I also add a pdf file with comments both on the paper and on the figures.</p>
 
-<p>I am using the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at <a href="https://jekyllrb.com/">jekyllrb.com</a></p>
+<p>🔥 Looking for feedback: both on the efficiency of the implementation and the coding style. These re-implementations are made to be criticized and learn from it!</p>
 
-<p>You can find the source code for Minima at GitHub:
-<a href="https://github.com/jekyll">jekyll</a> /
-<a href="https://github.com/jekyll/minima">minima</a></p>
+<ul>
+  <li>The replications are done either in julia or python.</li>
+  <li>The goal for me is not to criticize the author work, which I always assume to be of high quality. Indeed, as a student I still have a lot to learn before being able to argue on the implementation of a model. Nonetheless, I will add a description of how hard I found it to replicate the work, from a student perspective.</li>
+  <li>Sometimes I will focus on the main figures.</li>
+  <li>Additional explorations may be proposed at the end of the work.</li>
+</ul>
 
-<p>You can find the source code for Jekyll at GitHub:
-<a href="https://github.com/jekyll">jekyll</a> /
-<a href="https://github.com/jekyll/jekyll">jekyll</a></p>
+<p>Most papers will be either machine learning or computational neuroscience papers.</p>
 
+<p>The Manifest and Project config files are used to obtain the same environment as mine in Julia. Note that since these work are exploratory I used their most of the library I know in Julia, and some might not be needed for some implementations.
+The implementations are runned on the GPU when possible/useful.</p>
+
+<h1 id="papers-implemented">Papers implemented:</h1>
+<ul>
+  <li>Boucheny, C., Brunel, N. &amp; Arleo, A. A Continuous Attractor Network Model Without Recurrent Excitation: Maintenance and Integration in the Head Direction Cell System. J Comput Neurosci 18, 205–227 (2005). https://doi.org/10.1007/s10827-005-6559-y
+ <a href="https://github.com/PierreOrhan/ReplicationsProjects/blob/master/src/replicate/replicateBrunel2004/Boucheny%2C%20Brunel%2C%20Arleo%202004.pdf"> Link to the PDF </a>
+| <a href="https://github.com/PierreOrhan/ReplicationsProjects/tree/master/src/replicate/replicateBrunel2004">Repository of the code </a></li>
+</ul>
 
 
       </div>

@@ -5,9 +5,9 @@ title : Replication
 
 # {{ page.title}}
 
-:fire: Replication of various papers, to which I also add a pdf file with comments both on the paper and on the figures. 
+🔥 Replication of various papers, to which I also add a pdf file with comments both on the paper and on the figures. 
 
-:fire: Looking for feedback: both on the efficiency of the implementation and the coding style. These re-implementations are made to be criticized and learn from it!
+🔥 Looking for feedback: both on the efficiency of the implementation and the coding style. These re-implementations are made to be criticized and learn from it!
 
 - The replications are done either in julia or python. 
 - The goal for me is not to criticize the author work, which I always assume to be of high quality. Indeed, as a student I still have a lot to learn before being able to argue on the implementation of a model. Nonetheless, I will add a description of how hard I found it to replicate the work, from a student perspective.
@@ -21,9 +21,5 @@ The implementations are runned on the GPU when possible/useful.
 
 # Papers implemented:
 - Boucheny, C., Brunel, N. & Arleo, A. A Continuous Attractor Network Model Without Recurrent Excitation: Maintenance and Integration in the Head Direction Cell System. J Comput Neurosci 18, 205–227 (2005). https://doi.org/10.1007/s10827-005-6559-y
-	<a href=https://github.com/PierreOrhan/ReplicationsProjects/blob/master/src/replicate/replicateBrunel2004/Boucheny%2C%20Brunel%2C%20Arleo%202004.pdf> Link to the PDF </a>
-	<a href=https://github.com/PierreOrhan/ReplicationsProjects/tree/master/src/replicate/replicateBrunel2004> Repository of the code </a>
-
-
-{% include logBookTopicNav.html %}
-
+ <a href="https://github.com/PierreOrhan/ReplicationsProjects/blob/master/src/replicate/replicateBrunel2004/Boucheny%2C%20Brunel%2C%20Arleo%202004.pdf"> Link to the PDF </a>
+| <a href="https://github.com/PierreOrhan/ReplicationsProjects/tree/master/src/replicate/replicateBrunel2004">Repository of the code </a>

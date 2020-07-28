@@ -2,5 +2,7 @@
   link: /
 - name: LogBook
   link: /LogBook.html
+- name: Replications
+  link: /Replications.html
 - name: About
   link: /about/

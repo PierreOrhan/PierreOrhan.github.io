@@ -9,7 +9,7 @@ permalink: /topics/mathematics/
 
 ## Mathematics
 
-I note the difficulties I had to approach these topics with :fire: . None: accessible to anyone after high-school. 1 fire: 2 years of undergrad studies in mathematics needed, 2 fire: up to beginning of master (I am consolidating), more fire: grad studies and beyond (so things I do not master). 
+I note the difficulties I had to approach these topics with 🔥 . None: accessible to anyone after high-school. 1 🔥 2 years of undergrad studies in mathematics needed, 2 🔥🔥 up to beginning of master (I am consolidating), more 🔥🔥🔥🔥 grad studies and beyond (so things I do not master). 
 
 ## Intuitions
 
@@ -20,11 +20,11 @@ I note the difficulties I had to approach these topics with :fire: . None: acces
 
 We usually learn a tone of key concepts in Linear algebra, buidling the first blocks of an abstract reasoning in mathematics. To me this was thanks to my amazing teacher in Stanislas (thank you Pr. Etrog!) and latter on Ecole Polytechnique. But I never got the big picture of what we were trying to build, maybe because of vocabulary? For example "topological" is a very intriguing words at first, we can easily put a lot of meaning and misconceptions on it before understanding. Trying to obtain results on more abstract and general spaces is one way to derive an intuitions and get the vocabulary. Another is to progressively build from zero tools that will be the building stones of a field. When one wish to study Differential Geometry, it first requires to build sets, then topological spaces, then manifolds. If well presented I fell that we get through this construction an hint of what it means to do Math. This was exactly achieved by Frederic Schuller, in the following lectures.
 
-- :fire: I have followed this course about differential geometry, made by Frederic Schuller, I would really recommend it to anyone, it is very clear and well explained with rigor. Open my eyes on how to approach Math again. <a href="https://www.youtube.com/watch?v=V49i_LM8B0E&list=PLmALZgDIsEXoJe0S3eSME6jqhOqcyyRKf">Lectures on the Geometric Anatomy of Theoretical Physics</a> Did you know that "a lady should never visit the cemetery .... of matrices ? 
+- 🔥 I have followed this course about differential geometry, made by Frederic Schuller, I would really recommend it to anyone, it is very clear and well explained with rigor. Open my eyes on how to approach Math again. <a href="https://www.youtube.com/watch?v=V49i_LM8B0E&list=PLmALZgDIsEXoJe0S3eSME6jqhOqcyyRKf">Lectures on the Geometric Anatomy of Theoretical Physics</a> Did you know that "a lady should never visit the cemetery .... of matrices ? 
 
-- :fire: :fire: 
+- 🔥🔥
 
-- (French) this introduction by Alain Connes is very interesting talk on how very abstract Mathematical theory influences our understanding of Physicsi and other sciences. <a href="https://www.youtube.com/watch?v=qrpp1Mh8EDo&t=4803s">Les mathematiques et la pensee en mouvement</a> Has the time arrived to do the same with Neuroscience?
+- (French) this introduction by Alain Connes is very interesting talk on how very abstract Mathematical theory influences our understanding of Physics and other sciences. <a href="https://www.youtube.com/watch?v=qrpp1Mh8EDo&t=4803s">Les mathematiques et la pensee en mouvement</a> Has the time arrived to do the same with Neuroscience?
 
 
 ## Information Geometry
@@ -37,8 +37,8 @@ Some researchers think it is a really attracting fields for theoretical Neurosci
 
 <img src="http://images.weserv.nl/?url=pierreorhan.github.io/data/photo/Mathematics/CommunicationTheoryCover.jpg&w=200&h=200&output=jpg&q=65" />
 
-- :fire: To dive directly into the field, I would recomment this introduction by Frank Nielsen, which then pointis to further referencec. <a href="https://arxiv.org/abs/1808.0827">An elementary introduction to information geometry</a> a first training in Differential Geometry is necessary.
+- 🔥 To dive directly into the field, I would recomment this introduction by Frank Nielsen, which then pointis to further referencec. <a href="https://arxiv.org/abs/1808.0827">An elementary introduction to information geometry</a> a first training in Differential Geometry is necessary.
 
-- :fire: Another introduction, more easy to follow: <a href="https://www.youtube.com/watch?v=zmUMBLEHhZg"> Information Geometry at Microsoft Research </a>
+- 🔥 Another introduction, more easy to follow: <a href="https://www.youtube.com/watch?v=zmUMBLEHhZg"> Information Geometry at Microsoft Research </a>
 
-- :fire: I really enjoy the work and presentations of Yann Olivier, always of qualities: <a href="http://www.yann-ollivier.org/">his website</a>
+- 🔥 I really enjoy the work and presentations of Yann Olivier, always of qualities: <a href="http://www.yann-ollivier.org/">his website</a>
