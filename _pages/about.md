@@ -23,7 +23,7 @@ Research interests
     </div>
 </div>
 
-## Modeling Developmental patterns.
+## Modeling Development.
 
 <div style="display: flex; align-items: center;">
     <img src="/images/protocolLinguisticStruct.png" alt="Description of image" style="margin-right: 20px; width: 400px; height: auto;">
