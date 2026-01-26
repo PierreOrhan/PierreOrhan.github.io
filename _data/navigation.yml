@@ -14,6 +14,9 @@ main:
   - title: "Posts"
     url: /posts/
 
+  - title: "Blog"
+    url: /year-archive/
+
   - title: "CV"
     url: /files/CVpierreOrhan.pdf
     
@@ -22,6 +25,5 @@ main:
 #
 #  - title: "Portfolio"
 #    url: /portfolio/
-#        
 #  - title: "Guide"
 #    url: /markdown/

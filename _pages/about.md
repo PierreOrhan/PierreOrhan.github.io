@@ -51,7 +51,7 @@ Why is it that every children go through similar stages when discovering languag
 <div style="display: flex; align-items: center;">
     <img src="/images/ModelToBrain.png" alt="Description of image" style="margin-right: 20px; width: 400px; height: auto;">
     <div>
-        <p>We proposoe novel approach to measure if linguistic structures are instantiated, in the brain or in artificial neural networks.</p>
+        <p>We propose novel approach to measure if linguistic structures are instantiated, in the brain or in artificial neural networks.</p>
     </div>
 </div>
 
