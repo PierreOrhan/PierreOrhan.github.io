@@ -61,4 +61,3 @@ Engineering interests
 ======
 
 ## Improving Transformer efficiency
-
